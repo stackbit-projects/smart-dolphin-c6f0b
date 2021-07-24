@@ -4,8 +4,8 @@ sections:
   - type: hero_section
     title: We Need To Talk.
     subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+      The official website for the first global student-run activism focused
+      newspaper.
     actions:
       - label: Contact Me
         url: /contact
